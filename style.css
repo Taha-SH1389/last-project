@@ -1,1 +1,7 @@
-css page
+.p{
+    background-color: aqua;
+    color: purple;
+    font-style: italic;
+    font-size: large;
+    direction: ltr;
+}
